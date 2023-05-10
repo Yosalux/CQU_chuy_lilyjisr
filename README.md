@@ -1,1 +1,3 @@
-# CQU_chuy_lilyjisr
+# 理论计算实验
+去旁边的**release**下载吧
+下载了就点击`运行.bat`
